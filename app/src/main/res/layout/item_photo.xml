@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:layout_width="match_parent"
+              android:layout_height="wrap_content">
+
+    <TextView
+
+        android:text="Бой с тенью"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:shadowColor="#ff0000"
+        android:id="@+id/iv_text"
+        android:adjustViewBounds="true"
+        android:layout_height="25dp"
+        android:scaleType="centerCrop"
+        android:layout_margin="20dp"
+        android:layout_width="150dp"
+        />
+
+
+    <ImageView
+        android:id="@+id/iv_photo"
+        android:adjustViewBounds="true"
+        android:layout_height="150dp"
+        android:scaleType="centerCrop"
+        android:layout_margin="10dp"
+        android:layout_width="150dp"/>
+
+</LinearLayout>
