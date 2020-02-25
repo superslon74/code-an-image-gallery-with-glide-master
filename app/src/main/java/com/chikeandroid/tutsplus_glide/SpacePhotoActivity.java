@@ -4,7 +4,6 @@ package com.chikeandroid.tutsplus_glide;
  * Created gennadij schamanskij on 24/02/2020.
  * e-mail:superslon74@gmail.com
  */
-
 import android.graphics.Bitmap;
 import android.graphics.Color;
 import android.os.Bundle;
